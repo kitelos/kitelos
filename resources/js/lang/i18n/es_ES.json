@@ -1,0 +1,88 @@
+{
+    "msg" : {
+        "login" : "Iniciar Sesión",
+        "default_password": "La contraseña predeterminada al crear un usuario es 'password'",
+        "sign_in": "Inicia sesión con",
+        "home_to": "<<-- Vuelve a Inicio",
+        "created": "Su modelo de datos ha sido registrado con éxito.",
+        "updated": "Su modelo de datos ha sido actualizado con éxito.",
+        "deleted": "Su modelo de datos ha sido eliminado con éxito.",
+        "error": "Lo sentimos, hubo un error al ejecutar la tarea.",
+        "card": {
+            "registered": "registrado hasta la fecha",
+            "action-users": "Mostrar todos los usuarios",
+            "action-roles": "Mostrar todos los roles",
+            "action-settings": "Mostrar todos los ajustes"
+        },
+        "profile": {
+            "upload": "Cargar imagen",
+            "success": "Avatar actualizado exitosamente",
+            "error": "Error al cargar el avatar",
+            "change_password": "Contraseña actualizada con éxito"
+        }
+    },
+
+    "forms": {
+        "name": "Nombre",
+        "email": "Email",
+        "password": "Contraseña",
+        "password_confirmation": "Contraseña confirmada",
+        "status": "Estado",
+        "level": "Nivel",
+        "slug": "Slug",
+        "description": "Descripción",
+        "created_at": "Creado en",
+        "key": "Clave",
+        "value": "Valor",
+        "roles": "Roles",
+        "alias": "Alias",
+        "bio": "Biografia"
+    },
+    
+    "email": "Email",
+    "password": "Contraseña",
+    "login" : "Iniciar Sesión",
+    "logout": "Cerrar Sesión",
+    "profile": "Perfil",
+
+    "action": {
+        "new": "nuevo",
+        "create": "crear",
+        "edit": "editar",
+        "update": "actualizar",
+        "save": "guardar",
+        "remove": "eliminar",
+        "search": "buscar",
+        "cancel": "cancelar",
+        "show": "ver",
+        "back": "atras",
+        "change_password": "Cambia la Contraseña"
+    },
+
+    "terms": {
+        "active": "activo",
+        "inactive": "inactivo",
+        "enable": "habilitar",
+        "disable": "inhabilitar",
+        "permission": "Permisos" 
+    },
+
+    "module" : {
+        "dashboard": "tablero",
+        "role": "rol | roles",
+        "user": "usuario | usuarios",
+        "setting": "configuración | configuraciones",
+        "help": "ayuda | ayuda",
+        "core": "núcleo | nucleo"
+    },
+    "validation": {
+        "email": {
+            "required": "Email es requerido",
+            "valid": "No corresponde a un formato valido de emailIt does not correspond to a valid E-mail format"
+        },
+        "password": {
+            "required": "Contraseña es requerido",
+            "min": "La contraseña debe tener al menos 7 caracteres"
+        }
+    }
+}

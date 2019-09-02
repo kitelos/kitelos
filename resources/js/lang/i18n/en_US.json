@@ -1,0 +1,89 @@
+{
+    "msg" : {
+        "login" : "Sign In",
+        "default_password": "The default password when creating a user is 'password'",
+        "sign_in": "Sign in with",
+        "home_to": "<<-- Return to home",
+        "created": "Your data model has been successfully registered",
+        "updated": "Your data model has been successfully updated",
+        "deleted": "Your data model has been successfully deleted",
+        "error": "Sorry there was an error while executing the task.",
+        "card": {
+            "registered": "registered to date",
+            "action-users": "Show all Users",
+            "action-roles": "Show all Roles",
+            "action-settings": "Show all Settings"
+        },
+        "profile": {
+            "upload": "Upload Image",
+            "success": "Avatar successfully updated",
+            "error": "Error uploading avatar",
+            "change_password": "Password successfully updated"
+        }
+    },
+
+    "forms": {
+        "name": "Name",
+        "email": "E-mail",
+        "password": "Password",
+        "password_confirmation": "Confirm Password",
+        "status": "Status",
+        "level": "Level",
+        "slug": "Slug",
+        "description": "Description",
+        "created_at": "Created At",
+        "key": "Key",
+        "value": "Value",
+        "roles": "Roles",
+        "alias": "Alias",
+        "bio": "Biography"
+    },
+    
+    "email": "E-mail",
+    "password": "Password",
+    "login" : "Login",
+    "logout": "Logout",
+    "profile": "Profile",
+
+    "action": {
+        "new": "new",
+        "create": "create",
+        "edit": "edit",
+        "update": "update",
+        "save": "save",
+        "remove": "remove",
+        "search": "search",
+        "cancel": "cancel",
+        "show": "Show",
+        "back": "Back",
+        "change_password": "Change Password"
+    },
+
+    "terms": {
+        "active": "active",
+        "inactive": "inactive",
+        "enable": "enable",
+        "disable": "disable",
+        "permission": "Permits" 
+    },
+
+    "module" : {
+        "dashboard": "dashboard",
+        "role": "role | roles",
+        "user": "user | users",
+        "setting": "setting | settings",
+        "help": "help | help",
+        "core": "core | core"
+    },
+
+    "validation": {
+        "email": {
+            "required": "E-mail is required",
+            "valid": "It does not correspond to a valid E-mail format"
+        },
+        "password": {
+            "required": "Password is required",
+            "min": "Password must have at least 7 characters"
+        }
+    }
+}
