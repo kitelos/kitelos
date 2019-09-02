@@ -1,4 +1,4 @@
-<p align="center"><img src="public/img/logo.png"></p>
+<p style="text-align:center"><img src="public/img/logo.png"></p>
 
 ## About KitElos
 KitElos is a kit that facilitates the start of SPA web application development, providing you with a basic, structured scheme with modules necessary for any application.
