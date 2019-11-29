@@ -9,6 +9,19 @@ KitElos is a kit that facilitates the start of SPA web application development, 
 $ composer create-project seguce92/kitelos project_name
 ```
 
+```bash
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=db_name
+DB_USERNAME=db_username
+DB_PASSWORD=db_password
+```
+
+```bash
+$ php artisan kitelos:install
+```
+
 For more information visit: [KitElos Documentation](https://kitelos.mascodigo.com.bo).
 
 
